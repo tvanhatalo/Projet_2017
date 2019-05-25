@@ -8,3 +8,5 @@ Tout d'abord, nous avons mis en place une équation différentielle linéaire ay
 
 Le language de programmation utilisé ici est le Fortran 90.
 Des études d'erreur ont aussi été mises en place pour comparer nos méthodes.
+
+Voici le PDF du [rapport final](./Rapport_Final_GPA.pdf). 
